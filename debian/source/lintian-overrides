@@ -1,0 +1,4 @@
+python-libvirt-python source: no-debian-changes
+python-libvirt-python source: source-contains-prebuilt-windows-binary
+python-libvirt-python source: source-is-missing
+python-libvirt-python source: source-package-encodes-python-version

@@ -1,0 +1,4 @@
+python3-libvirt: copyright-without-copyright-notice
+python3-libvirt: initial-upload-closes-no-bugs
+python3-libvirt: no-manual-page
+python3-libvirt: zero-byte-file-in-doc-directory
